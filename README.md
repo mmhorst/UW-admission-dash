@@ -6,6 +6,7 @@
 This repo supports an interactive, dashboard visualization for UW Admission Statistics through 2018, available here:
 https://grad.uw.edu/wp-content/uploads/2019/06/admissions
 
+Total Applicants and Acceptance Rates are implemented for now, with more useability upcoming for future commits.
 
 Developed on Jupyter Notebook 4.1.1, choose to run either download the pdfs yourself or run everything from the batch script: 
 
@@ -31,4 +32,4 @@ NOTE: There may be dependencies that are necessary for implementation. Notably p
 
 ```pip install requests```
 
-The following images show dashboard jpg pictures when College of Engineering and College of Education are selected for Female applicants
+The following images show dashboard jpg pictures when Information and College of Education are selected for Female applicants
