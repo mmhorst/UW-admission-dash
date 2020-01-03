@@ -1,3 +1,8 @@
+# Readme #
+## Uw Admission Dash ## 
+
+### by Martin Horst ### 
+
 This repo supports an interactive, dashboard visualization for UW Admission Statistics through 2018, available here:
 https://grad.uw.edu/wp-content/uploads/2019/06/admissions
 
