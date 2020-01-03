@@ -33,3 +33,8 @@ NOTE: There may be dependencies that are necessary for implementation. Notably p
 ```pip install requests```
 
 The following images show dashboard jpg pictures when Information and College of Education are selected for Female applicants
+*Total Female Applicants to College of Education and Information School* 
+[Fem_Ed_Inf_Total.png](Fem_Ed_Inf_Total.png)
+
+*Acceptance Rate of Female Applicants to College of Education and Information School* 
+[Fem_Ed_Inf_Rate.png](Fem_Ed_Inf_Rate.png)
